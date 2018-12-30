@@ -69,6 +69,6 @@
 
 #### 反馈交流
 
-- QQ交流群：891137268
+- QQ交流群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5LSPrsO"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" title="QQ交流群"></a>
 
 - 作者邮箱：elunez@qq.com
